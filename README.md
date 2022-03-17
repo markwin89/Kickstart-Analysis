@@ -1,4 +1,4 @@
 # Kickstart-analysis
-Analysis on Kickstart to uncover trends
+An Analysis of Kickstarter Campaigns
 ## Parent Category Outcomes
-![Column_Stacked](path/to/Column_Stacked.png)
+![Column Stacked](https://user-images.githubusercontent.com/101272613/158873773-fc345fed-dc92-455f-96ba-b06aa51ac9f1.png)
