@@ -7,7 +7,6 @@ An Analysis of Kickstarter Campaigns
 ## Outcomes on SubCategories
 ![Graph of Outcomes on Sub Categories](https://user-images.githubusercontent.com/101272613/158874683-dd0f08aa-f1af-4b5e-be29-72b3651d27a0.png)
 ---
----
-###Overview
+---###Overview
 ---
 My recommendation is to have the goal of 2000 GBP or less.  Set the plays out during May or June. Plays are the highest kickstarter campaigns that were successful. 
