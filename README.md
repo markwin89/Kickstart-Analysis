@@ -11,3 +11,5 @@ An Analysis of Kickstarter Campaigns
 Overview
 ---
 My recommendation is to have the goal of 2000 GBP or less.  Set the plays out during May or June. Plays are the highest kickstarter campaigns that were successful. 
+---
+There was one outlier for each pledged and goal. Pledged had $10092 and the goal outlier is $15000.
